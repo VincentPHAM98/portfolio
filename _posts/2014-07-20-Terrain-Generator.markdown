@@ -2,7 +2,7 @@
 layout: default
 modal-id: 6
 date: 2021-10-01
-img: TerraingGenerator.png
+img: TerrainGenerator.png
 alt: image-alt
 project-date: October 2021
 category: Geometric Algorithms

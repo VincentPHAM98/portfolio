@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 3
+date: 2022
+img: Gravital.png
+alt: image-alt
+project-date: Gravital
+category: Game Development
+description: Made as a month-long school project in Unity, I contributed to all stages of game development such as developping features, 3D modeling, sound design, level design, testing, code reviews...
+
+
+---

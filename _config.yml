@@ -41,6 +41,9 @@ address:
   - line: Lyon
   - line: France
 
+# Credits content
+credits: 'vincent.pham69006@gmail.com'
+
 # Build settings
 markdown: kramdown
 permalink: pretty

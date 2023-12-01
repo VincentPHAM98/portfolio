@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 4
-date: 2021
+date: 2021-01-01
 img: MeshDeformation.png
 alt: image-alt
 project-date: 2021

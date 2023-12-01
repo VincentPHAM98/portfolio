@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 7
-date: 2019
+date: 2019-01-01
 img: FightingGame.png
 alt: image-alt
 project-date: 2019

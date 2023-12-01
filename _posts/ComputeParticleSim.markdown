@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 2
-date: 2023
+date: 2023-01-01
 img: ParticleSimulation.png
 alt: image-alt
 project-date: 2023

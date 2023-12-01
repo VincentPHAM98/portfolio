@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 5
-date: 2021
+date: 2021-01-01
 img: StereoscopicReconstruction.png
 alt: image-alt
 project-date: 2021

@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 6
-date: 2022
+date: 2022-01-01
 img: TerraingGenerator.png
 alt: image-alt
 project-date: 2022

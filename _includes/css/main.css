@@ -49,6 +49,8 @@ h3 {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+    color: #e38120;
+    background-color: #161809;
 }
 
 hr.star-light,

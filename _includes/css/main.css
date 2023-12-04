@@ -42,7 +42,7 @@ h3 {
     color: #{{ site.color.secondary }};
 }
 
-skills {
+.skills {
     font-size: 12px;
     padding: 0;
     margin-bottom: 0;

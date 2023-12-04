@@ -42,6 +42,15 @@ h3 {
     color: #{{ site.color.secondary }};
 }
 
+skills {
+    font-size: 12px;
+    padding: 0;
+    margin-bottom: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
 hr.star-light,
 hr.star-primary {
     margin: 25px auto 30px;

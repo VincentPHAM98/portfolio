@@ -7,4 +7,5 @@ alt: image-alt
 project-date: September 2021
 category: Geometric Algorithms
 description: Given unoptimized meshes, I had to implement various algorithms to deform, optimize and debug them using C++, Qt and OpenGL.
+link: https://github.com/VincentPHAM98/GAM
 ---

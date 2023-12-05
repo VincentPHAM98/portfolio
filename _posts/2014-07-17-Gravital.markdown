@@ -7,6 +7,5 @@ alt: image-alt
 project-date: January 2022
 category: Game Development
 description: Made as a month-long school project in Unity, I contributed to all stages of game development such as developping features, 3D modeling, sound design, level design, testing, code reviews...
-
-
+link: https://xardinlume.itch.io/gravital
 ---

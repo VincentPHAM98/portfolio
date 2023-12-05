@@ -20,7 +20,9 @@
             <p>{{ post.description }}</p>
             {% endif %}
             {% if post.link %}
-            <a target="_blank" rel="noopener noreferrer" href="{{post.link}}" >More details</a>
+            <a target="_blank" rel="noopener noreferrer" href="{{post.link}}" class="btn btn-lg btn-outline">
+              <i class="fa fa-download"></i> More details
+            </a>
             {% endif %}
             <ul class="list-inline item-details">
               {% if post.client %}
